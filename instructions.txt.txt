@@ -1,0 +1,5 @@
+Instructions:
+1. Turn on the computer.
+2. Log in with the given name and password.
+3. Create a new text file named "ideas.txt"
+4. In the text file, type any idea for your next coding project. 
