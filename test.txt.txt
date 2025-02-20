@@ -2,3 +2,9 @@ I am from Indonesia. I like to eat chocolate ice cream.
 
 
 Seattle is located in the U.S.'s Pacific Northwest region. It's famous for the Space Needle, the University of Washington and its rainy weather.
+
+
+I have experience in the Python programming language.
+
+
+
